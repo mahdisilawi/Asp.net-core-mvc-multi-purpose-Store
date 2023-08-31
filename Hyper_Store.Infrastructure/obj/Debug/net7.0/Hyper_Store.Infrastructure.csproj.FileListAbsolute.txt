@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\bin\Debug\net7.0\Hyper_Store.Infrastructure.deps.json
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\bin\Debug\net7.0\Hyper_Store.Infrastructure.dll
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\bin\Debug\net7.0\Hyper_Store.Infrastructure.pdb
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.dll
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\refint\Hyper_Store.Infrastructure.dll
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\Hyper_Store.Infrastructure.pdb
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Infrastructure\obj\Debug\net7.0\ref\Hyper_Store.Infrastructure.dll

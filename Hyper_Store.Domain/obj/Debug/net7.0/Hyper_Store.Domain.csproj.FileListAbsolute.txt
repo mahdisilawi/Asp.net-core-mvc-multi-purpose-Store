@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\bin\Debug\net7.0\Hyper_Store.Domain.deps.json
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\bin\Debug\net7.0\Hyper_Store.Domain.dll
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\bin\Debug\net7.0\Hyper_Store.Domain.pdb
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.dll
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\refint\Hyper_Store.Domain.dll
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\Hyper_Store.Domain.pdb
+C:\Users\Admin\source\repos\Hyper_Store\Hyper_Store.Domain\obj\Debug\net7.0\ref\Hyper_Store.Domain.dll
