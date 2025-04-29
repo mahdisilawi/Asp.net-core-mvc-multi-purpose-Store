@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Hyper_Store\\Hyper_Store.Infrastructure\\Hyper_Store.Infrastructure.csproj",
+      "projectUniqueName": "D:\\VisualStudio\\source\\repos\\Hyper_Store\\Hyper_Store.Infrastructure\\Hyper_Store.Infrastructure.csproj",
       "projectName": "Hyper_Store.Infrastructure",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Hyper_Store\\Hyper_Store.Infrastructure\\Hyper_Store.Infrastructure.csproj",
+      "projectPath": "D:\\VisualStudio\\source\\repos\\Hyper_Store\\Hyper_Store.Infrastructure\\Hyper_Store.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Hyper_Store\\Hyper_Store.Infrastructure\\obj\\",
+      "outputPath": "D:\\VisualStudio\\source\\repos\\Hyper_Store\\Hyper_Store.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
